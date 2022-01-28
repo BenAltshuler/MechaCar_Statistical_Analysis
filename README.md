@@ -31,3 +31,14 @@ HOWEVER, individual analysis indicates the variance of Lot 3 is 170.3, putting L
 
 ## T-Tests on Suspension Coils
 
+A 1 sample T Test determined whether or not PSI across all 3 lots was statistically different from the population mean of 1500 PSI. 
+
+Visualization of the distribution is below, showing that this dataset suggests an even distribution. 
+
+PUT VIZ HERE
+
+For all t-tests conducted, the significance level was 0.05 percent.  The t-test compared the means of the Suspension Coil dataset, which was 1498.78, against a mean of 1500. All t-tests conducted resulted in the means being statistically similar.
+
+A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar.
+
+
