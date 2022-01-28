@@ -39,6 +39,29 @@ PUT VIZ HERE
 
 For all t-tests conducted, the significance level was 0.05 percent.  The t-test compared the means of the Suspension Coil dataset, which was 1498.78, against a mean of 1500. All t-tests conducted resulted in the means being statistically similar.
 
-A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar.
+A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar. 
+
+Individual lot tests returned similar results
+
+PUT LOT VIZ HERE
+
+# Study Design: MechaCar vs the Competition
+
+## Overview of Study 
+
+Mileage and suspension optimization are critical design considerations for any automotive manufacturer. Another factor that consumers will consider is reliability.
+
+- Metric: average cost of maintenance on the vehicle over its first five years? 
+
+- Hypotheses
+    - Null: Average maintenance cost is ~ equal to MechaCar's competition
+    - Alternative Hypothesis: Avg maintenance cost is not ~ equal to the competition
+
+- Statistical Test 
+    - Multiple Linear Regression to predict maintenance cost over first five years.
+
+- Data Needed
+    - Count of sold vehicles, price and frequency of common parts and labor on each
+
 
 
