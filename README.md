@@ -21,3 +21,13 @@ This project currently encompasses the following deliverables:
 
 - The current linear model predicts that about 71% of MPG predictions of MechaCar will be correct when using it. R-value of .71 suggests a negative correlation between mileage and vehicle length, weight, spoiler angle, ground clearance, and AWD. For instance, a heavier vehicle (more weight) will log lower miles per gallon (low mileage numbers). 
 
+## Summary Statistics on Suspension Coils
+
+MechaCar's design dictates that variance among suspension coils across manufacturers not exceed 100 PSI. 
+
+Lots 1-3, when examined together, are within spec with variance of 62.3. 
+
+HOWEVER, individual analysis indicates the variance of Lot 3 is 170.3, putting Lot 3 outside spec. 
+
+## T-Tests on Suspension Coils
+
