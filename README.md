@@ -15,6 +15,7 @@ This project currently encompasses the following deliverables:
 
 ## Linear Regression to Predict MPG
 
+![Linear Regression Screengrab](Linear Regression to Predict MPG.png)
 - Vehicle Length, Weight, and Ground Clearance provided a non-random amount of variance to the MPG values in this data set. That's intuitive as we imagine a truck's mileage versus a small roadster.
 
 - P-value of this analysis is 5.35 x 10(-11). This allows the team to reject the null hypothesis since the slope of the linear model is not zero. 
@@ -51,7 +52,7 @@ PUT LOT VIZ HERE
 
 Mileage and suspension optimization are critical design considerations for any automotive manufacturer. Another factor that consumers will consider is reliability.
 
-- Metric: average cost of maintenance on the vehicle over its first five years? 
+- Metric: average cost of maintenance on the model over its first five years 
 
 - Hypotheses
     - Null: Average maintenance cost is ~ equal to MechaCar's competition
