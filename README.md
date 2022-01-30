@@ -24,7 +24,7 @@ This project currently encompasses the following deliverables:
 
 ## Summary Statistics on Suspension Coils
 
-![Summary Stats](TotalSummary)
+![Summary Stats](TotalSummary.png)
 
 MechaCar's design dictates that variance among suspension coils across manufacturers not exceed 100 PSI. 
 
@@ -32,7 +32,7 @@ Lots 1-3, when examined together, are within spec with variance of 62.3.
 
 HOWEVER, individual analysis indicates the variance of Lot 3 is 170.3, putting Lot 3 outside spec. 
 
-![Summary by Lot](LotSummary)
+![Summary by Lot](LotSummary.png)
 
 ## T-Tests on Suspension Coils
 
@@ -40,18 +40,18 @@ A 1 sample T Test determined whether or not PSI across all 3 lots was statistica
 
 Visualization of the distribution is below, showing that this dataset suggests an even distribution. 
 
-![One-Sample T-Test](Plot)
+![One-Sample T-Test](Plot.png)
 
 For all t-tests conducted, the significance level was 0.05 percent.  The t-test compared the means of the Suspension Coil dataset, which was 1498.78, against a mean of 1500. All t-tests conducted resulted in the means being statistically similar.
 
-![One-Sample T-Test](OneSampleTTest)
+![One-Sample T-Test](OneSampleTTest.png)
 
 A t-test across all suspension coil manufacturing lots gave a p-value of 0.06 Since this is above the significance level, the two means are statistically similar. 
 
 Individual lot tests returned similar results
-![Lot 1 test](Lot1TTest)
-![Lot 2 test](Lot2TTest)
-![Lot 3 test](Lot3TTest)
+![Lot 1 test](Lot1TTest.png)
+![Lot 2 test](Lot2TTest.png)
+![Lot 3 test](Lot3TTest.png)
 
 # Study Design: MechaCar vs the Competition
 
